@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><strong>Be aware on experimental sh..stuffs :)</strong></p>
-<p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=OLIMPMO5&style=flat-square" alt="OLIMPMO5"></p>
-<p align="center"><img width="100" src="https://user-images.githubusercontent.com/46964018/92511405-a5d08d80-f1e3-11ea-8883-7f063030787a.gif"></p>
-<p align="center"><a href="https://github.com/OLIMPMO5"><img src="https://github-readme-stats.vercel.app/api?username=OLIMPMO5&show_icons=true&theme=dark"></a></p>
-<p align="center"><a href="https://github.com/OLIMPMO5"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLIMPMO5&theme=dark&layout=compact"></a></p>
-<p align="center"><strong>Ping if you need help with my garbage. Connect on Telegram @fisuri<strong></p>
+[![OLIMPMO5 github stats](https://github-readme-stats.vercel.app/api?username=OLIMPMO5&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/OLIMPMO5)
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OLIMPMO5&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/OLIMPMO5)
+
+## What do I do
+- 🔨 I’m currently working on [@PixelExperience](https://github.com/PixelExperience)
+
+## How to contact me
+- <img src="https://pbs.twimg.com/profile_images/1229405547050524683/mLrLsHAB_400x400.png" alt="4PDA" width="16"/> 4PDA - [Filip1337](https://4pda.ru/forum/index.php?showuser=8632649)
+- <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="16"/> Telegram - [@fisuri](https://t.me/fisuri)
