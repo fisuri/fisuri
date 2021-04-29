@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="200" src="https://komarev.com/ghpvc/?username=OLIMPMO5&style=flat-square" alt="OLIMPMO5"></p>
-<img width="100" src="https://user-images.githubusercontent.com/46964018/92511405-a5d08d80-f1e3-11ea-8883-7f063030787a.gif"></p>
+<img width="125" src="https://komarev.com/ghpvc/?username=OLIMPMO5&style=flat-square" alt="OLIMPMO5"></p>
+<img width="150" src="https://user-images.githubusercontent.com/46964018/92511405-a5d08d80-f1e3-11ea-8883-7f063030787a.gif"></p>
 
 [![OLIMPMO5 github stats](https://github-readme-stats.vercel.app/api?username=OLIMPMO5&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/OLIMPMO5)
 
